@@ -3,6 +3,6 @@ Project is being made for learning purpose only.
 
 Technology Stack:
 
-Django REST Framework
-BeautifulSoup
+Django REST Framework,
+BeautifulSoup,
 Python
